@@ -1,0 +1,8 @@
+1.0:
+    First Release.
+1.1:
+    Fixed /gethealth command output.
+    Optimized code.
+    Fixed memory leaks.
+    Added warning message on death.
+    Fixed issue where a heart was added when you went thru the portal in the end.
